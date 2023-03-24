@@ -197,13 +197,12 @@ hr {
   }
 
   a {
-    color: #58a4a7;
+    color: #098c83;
     font-family: 'Varela Round', sans-serif;
     font-size: normal;
     text-decoration-line: none;
-    margin: 10px 20px;
-
-  }
+      margin: 10px 20px;
+}
   a:hover {
     color: #ffffff;
   }
